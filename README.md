@@ -30,9 +30,9 @@
 
 ## 👥 Members
 
-- A — Game Design / Direction
-- B — Programming
-- C — Art / UI
+- 강지훈 — Game Design / Direction
+- 성지욱 — Programming
+- 송승우 — Art / UI
 
 ## 🗺 Goals
 
@@ -42,5 +42,5 @@
 
 ## 📬 Contact
 
-- Email: ddukddak.studio@gmail.com
+- Email: winincow@gmail.com
 - Notion / Discord (Private)
