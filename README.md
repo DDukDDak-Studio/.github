@@ -2,7 +2,6 @@
 
 > 작은 팀이 빠르게 실험하는 게임 개발 스튜디오
 
-
 ## 🎮 About Us
 
 뚝딱뚝딱 스튜디오는 3명의 개발자가 모여 게임 플레이 중심의 실험적인 게임을 만드는 소규모 인디 게임 팀입니다.
@@ -30,9 +29,9 @@
 
 ## 👥 Members
 
-- 강지훈 — Game Design / Direction
-- 성지욱 — Programming
-- 송승우 — Art / UI
+- 강지훈 — Game Design / Programming
+- 성지욱 — Game Design / Programming
+- 송승우 — Game Design / Programming
 
 ## 🗺 Goals
 
