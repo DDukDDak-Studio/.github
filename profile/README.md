@@ -41,7 +41,7 @@
 
 - 강지훈 — Game Design / Programming
 - 성지욱 — Game Design / Programming
-- 송승우 — Game Design / Programming
+- [송승우](https://github.com/TA-PP?tab=overview&from=2025-12-01&to=2025-12-31) — Game Design / Programming
 
 <br>
 
