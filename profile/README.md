@@ -22,7 +22,7 @@
 
 | Project | Description | Status |
 |--------|------------|--------|
-| ❄️ [SnowEcho](https://github.com/DDukDDak-Studio/game-snowecho) | 태그 기반 소울라이크•로그라이크 | 🟢 In Progress |
+| ❄️ [SnowEcho](https://github.com/DDukDDak-Studio/game-SnowEcho.git) | 태그 기반 소울라이크•로그라이크 | 🟢 In Progress |
 
 <br><br>
 
