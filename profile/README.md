@@ -18,8 +18,6 @@
 
 ## 🚀 Projects
 
-<br>
-
 | Project | Description | Status |
 |--------|------------|--------|
 | ❄️ [SnowEcho](https://github.com/DDukDDak-Studio/game-SnowEcho.git) | 태그 기반 소울라이크•로그라이크 | 🟢 In Progress |
@@ -30,8 +28,6 @@
 
 이 오가니제이션은 아래 규칙으로 레포지토리를 관리합니다.
 
-<br>
-
 - `game-*` : 실제 게임 프로젝트
 - `proto-*` : 시스템 / 기믹 실험용 프로토타입
 - `tools-*` : 개발 편의 도구
@@ -40,8 +36,6 @@
 <br><br>
 
 ## 🔧 How We Work
-
-<br>
 
 - Unity + Git 기반 협업
 - `main / dev / feature` 브랜치 전략 사용
@@ -52,8 +46,6 @@
 
 ## 👥 Members
 
-<br>
-
 - 강지훈 — Game Design / Programming  
 - 성지욱 — Game Design / Programming  
 - [송승우](https://github.com/TA-PP) — Game Design / Programming  
@@ -62,8 +54,6 @@
 
 ## 🗺 Goals
 
-<br>
-
 - 첫 플레이 가능한 데모 제작
 - 스팀 데모 또는 공모전 출품
 - 팀 정체성이 드러나는 대표작 완성
@@ -71,8 +61,6 @@
 <br><br>
 
 ## 📬 Contact
-
-<br>
 
 - Email: winincow@gmail.com  
 - Notion / Discord (Private)
