@@ -46,7 +46,7 @@
 
 ## 👥 Members
 
-- 강지훈 — Game Design / Programming  
+- [강지훈](https://github.com/jihoonKhang) — Game Design / Programming  
 - [성지욱](https://github.com/Godpa-juke) — Game Design / Programming  
 - [송승우](https://github.com/TA-PP) — Game Design / Programming  
 
